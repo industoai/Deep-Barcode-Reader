@@ -101,4 +101,4 @@ It is good to mention that you can also run the application locally by running t
 ```shell
 streamlit run app.py
 ```
-and then open the browser and go to the address `http://localhost:8501`.
+and then open the browser and go to the address `http://localhost:8501`
