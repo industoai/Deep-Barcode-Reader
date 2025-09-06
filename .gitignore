@@ -1,0 +1,21 @@
+# Pycharm files
+.idea/
+
+# poetry
+poetry.lock
+
+# Unit test files
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+src/*/__pycache__/*
+
+# mypy files
+.mypy_cache/
+
+# Probable environments files
+.env
+.venv
+env/
+venv/
