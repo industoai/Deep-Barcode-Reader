@@ -12,7 +12,6 @@ pinned: false
 This repository is used for reading different types of barcodes and QR codes from images.
 The code is written in Python and uses OpenCV, Pyzbar, and other libraries for reading barcodes and QR codes.
 
-
 ## How to Use
 The library offers several functions for reading barcodes and QR codes from images.
 General options can be selected before applying the reader method. These options are:
