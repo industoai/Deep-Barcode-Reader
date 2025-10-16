@@ -1,4 +1,4 @@
-name: Sync to Hugging Face hub
+name: Hugging Face hub
 on:
   push:
     branches:
